@@ -9,6 +9,9 @@
     "watch": "node-sass --watch src/resources/scss/app.scss src/public/css/app.css",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "engines": {
+  "node": "16.12.0"
+},
   "author": "tuanvo",
   "license": "ISC",
   "dependencies": {
